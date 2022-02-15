@@ -1,1 +1,1 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BelKed&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BelKed&count_private=true&show_icons=true&theme=tokyonight)
